@@ -2,10 +2,10 @@
 title: Setup
 ---
 
-## Overview
+## Overview YEAAAAAA
 
 The lesson infrastructure is built on Git, [The R language][R], and [pandoc]. It consists of 
-four components:
+four components
 
 1. The source content (plain markdown or RMarkdown files organized into folders
    with a configuration yaml file)

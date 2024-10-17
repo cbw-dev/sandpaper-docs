@@ -75,6 +75,7 @@ In the next section, we will explore the folder structure of a lesson.
    (<kbd>cmd + shift + b</kbd> on macOS) to build and preview this lesson (or 
    type `sandpaper::build_lesson()` in the console if you are not using RStudio)
 3. Open THIS file (`episodes/editing.md`) and add step 4: preview the lesson again.
+**3. Open THIS file (`episodes/editing.md`) and add step 4: preview the lesson again.**
 
 What do you notice?
 
